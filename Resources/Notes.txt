@@ -1,2 +1,6 @@
 * Day 1
-* test test test
+- Chapter 1 is completed
+    - How Does the Internet Works?
+    - How Do Websites Work?
+    - Top Tips for the Course
+
