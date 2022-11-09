@@ -9,3 +9,9 @@
     - What is HTML Tag?
     - Start Tag / End Tag / Self Cosing Tag / Content
     - Example Usage of HTML Elements
+
+* Day 3
+- Chapter 3: Intermediate HTML is completed.
+    - HTML Tables and HTML Forms
+    - Personal Site is completed
+    - How To Publish Our Website?
