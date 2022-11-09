@@ -1,6 +1,11 @@
 * Day 1
-- Chapter 1 is completed
+- Chapter 1: Front End Web Development is completed
     - How Does the Internet Works?
     - How Do Websites Work?
     - Top Tips for the Course
 
+* Day 2
+- Chapter 2: Introduction to HTML is completed.
+    - What is HTML Tag?
+    - Start Tag / End Tag / Self Cosing Tag / Content
+    - Example Usage of HTML Elements
