@@ -15,3 +15,9 @@
     - HTML Tables and HTML Forms
     - Personal Site is completed
     - How To Publish Our Website?
+
+*Day 4
+- Chapter 4: Introduction to CSS is %40 completed.
+    - Inline CSS
+    - Internal CSS
+    - External CSS
