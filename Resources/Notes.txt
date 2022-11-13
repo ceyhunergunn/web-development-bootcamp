@@ -16,16 +16,24 @@
     - Personal Site is completed
     - How To Publish Our Website?
 
-*Day 4
+* Day 4
 - Chapter 4: Introduction to CSS is %40 completed.
     - Inline CSS
     - Internal CSS
     - External CSS
 
-*Day 4
+* Day 5
 - Chapter 4: Introduction to CSS is completed.
     - CSS Anatomy
     - Tag Selector
     - Class Selector
     - ID Selector
     - Pseudo
+
+* Day 6
+- Chapter 5: Intermediate CSS is %50 completed.
+    - Favicon
+    - HTML Divs
+    - The Box Model of Website Styling
+    - CSS Display Property
+    - CSS Positioning
