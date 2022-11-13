@@ -21,3 +21,11 @@
     - Inline CSS
     - Internal CSS
     - External CSS
+
+*Day 4
+- Chapter 4: Introduction to CSS is completed.
+    - CSS Anatomy
+    - Tag Selector
+    - Class Selector
+    - ID Selector
+    - Pseudo
