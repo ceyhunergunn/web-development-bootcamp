@@ -31,9 +31,16 @@
     - Pseudo
 
 * Day 6
-- Chapter 5: Intermediate CSS is %50 completed.
+- Chapter 5: Intermediate CSS is %30 completed.
     - Favicon
     - HTML Divs
     - The Box Model of Website Styling
     - CSS Display Property
     - CSS Positioning
+
+* Day 7
+- Chapter 5: Intermediate CSS is %75 completed.
+    - Centering Elements
+    - Font Styling
+    - Adding Content
+    - Sizing
