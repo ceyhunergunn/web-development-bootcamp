@@ -1,29 +1,29 @@
 * Day 1
-- Chapter 1: Front End Web Development is completed
+- Chapter 1: Front End Web Development completed.
     - How Does the Internet Works?
     - How Do Websites Work?
     - Top Tips for the Course
 
 * Day 2
-- Chapter 2: Introduction to HTML is completed.
+- Chapter 2: Introduction to HTML completed.
     - What is HTML Tag?
     - Start Tag / End Tag / Self Cosing Tag / Content
     - Example Usage of HTML Elements
 
 * Day 3
-- Chapter 3: Intermediate HTML is completed.
+- Chapter 3: Intermediate HTML completed.
     - HTML Tables and HTML Forms
     - Personal Site is completed
     - How To Publish Our Website?
 
 * Day 4
-- Chapter 4: Introduction to CSS is %40 completed.
+- Chapter 4: Introduction to CSS %40 completed.
     - Inline CSS
     - Internal CSS
     - External CSS
 
 * Day 5
-- Chapter 4: Introduction to CSS is completed.
+- Chapter 4: Introduction to CSS completed.
     - CSS Anatomy
     - Tag Selector
     - Class Selector
@@ -31,7 +31,7 @@
     - Pseudo
 
 * Day 6
-- Chapter 5: Intermediate CSS is %30 completed.
+- Chapter 5: Intermediate CSS %30 completed.
     - Favicon
     - HTML Divs
     - The Box Model of Website Styling
@@ -39,8 +39,12 @@
     - CSS Positioning
 
 * Day 7
-- Chapter 5: Intermediate CSS is %75 completed.
+- Chapter 5: Intermediate CSS %75 completed.
     - Centering Elements
     - Font Styling
     - Adding Content
     - Sizing
+    
+* Day 8
+- Chapter 5: Intermediate CSS completed.
+    - Float and Clear
