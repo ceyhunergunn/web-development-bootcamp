@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+hr{
+    border: black;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 5%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.top-container{
+    position: relative;
+}
+
+.video{
+    width: 100%;
+}
+
+.banner-text{
+    width: 100%;
+    position: absolute;
+    top: 27%;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    font-size: 6rem;
+    color: white;
+}
+
+.profile {
+    text-align: center;
+    font-size: 2.2rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 150px;
+}
+
+.avatar-img{
+    width: 15%;
+    float: left;
+    margin-left: 100px;
+}
+
+.intro-div{
+    margin-top: 100px;
+}
+.intro{
+    margin: 20px auto 0 auto ;
+    width: 30%;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Merriweather', serif;
+}
+
+.skills{
+    margin: auto;
+    font-size: 2.2rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 150px;
+}
+
+.skill-row {
+    margin: 70px auto 70px auto ;
+    text-align: center;
+    font-size: 2.2rem;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    width: 50%;
+    margin-bottom: 90px;
+}
+
+.skill-img{
+    width: 50px;
+    float: left;
+    margin-right: 50px;
+}
+
+.skill-def{
+    display: inline;
+}
+
+.skill-rate{
+    display: inline;
+}
