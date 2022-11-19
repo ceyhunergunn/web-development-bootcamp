@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Ubuntu:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: 900;
+    color: black;
+    letter-spacing: 1px;
+    margin: 30px 0;
+}
+
+.todo-list{
+    background-color: #c6e5d9;
+    width: 60%;
+    height: 60%;
+    padding: 20px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    border: solid 3px;
+    border-radius: 40px;
+
+}
+
+.list-head{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 20px;
+}
+
+.entered-list{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+    font-size:16px;
+    color: black;
+}
+
+.add-list{
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: white;
+    border-color: black;
+    color:black;
+    outline: none;
+    font-size: 16px;
+    cursor: pointer;
+}
