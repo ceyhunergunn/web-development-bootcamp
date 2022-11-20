@@ -6,6 +6,7 @@ body{
     display: flex;
     background-color: #c6e5d9;
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 .container{
@@ -70,4 +71,16 @@ body{
 
 #clearToDo:active{
     background-color: #be0d30;
+}
+
+.paragraph{
+    margin: 0;
+    cursor: pointer;
+    font-size: 35px;
+    color: red;
+    text-transform: capitalize;
+}
+
+.to-dos{
+    margin-top: 25px;
 }
