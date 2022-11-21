@@ -56,3 +56,21 @@
     - Wireframing
     - Navigation Bar
     - Grid Layout System
+
+* Day 10
+- Started Yukatech Challenge
+    - To-Do page designed
+
+* Day 11
+- Yukatech Challenge
+    - To-Do Page designed
+    - Login Page designed
+    - All functions added
+
+
+* Day 12
+- Chapter 6: Introduction to Bootstrap %90 completed.
+    - Bootstrap Conainers
+    - Buttons
+    - Font Awesome
+
