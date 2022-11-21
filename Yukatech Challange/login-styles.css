@@ -57,7 +57,6 @@ body{
 }
 
 .login-form .submit{
-    margin-top: 5px;
     height: 40px;
     width: 350px;
     padding: 0 5px;
@@ -81,4 +80,14 @@ body{
 
 br{
     margin: 20px
+}
+
+#email_error, #password_error{
+    margin-top: 5px;
+    width: 100%;
+    font-size: 18px;
+    color: red;
+    background: rgba(0, 0, 0, 0.1) ;
+    border-radius: 6px;
+    display: none;
 }
