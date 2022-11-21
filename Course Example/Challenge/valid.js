@@ -4,7 +4,7 @@ var password= document.forms['form']['password'];
 
 //Değerlendirme işlemi yapıldı.
 function validated(){
-    if ((email.value == 'yuka@yuka.com') && (password.value == 'yuka123')){
+    if ((email.value == 'ceyhun@ceyhun.com') && (password.value == 'ceyhun123')){
         return true;  
     }
     else{return false};
