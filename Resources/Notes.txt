@@ -78,3 +78,6 @@
 - Chapter 6: Introduction to Bootstrap completed.
     - Bootstrap Challenge completed
 
+- Chapter 7: Intermediate Bootstrap  completed.
+
+

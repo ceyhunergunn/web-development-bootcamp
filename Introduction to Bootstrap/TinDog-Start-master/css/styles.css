@@ -51,9 +51,11 @@
     transform: rotate(25deg);
 }
 
+/* Features */
+
 #features{
     text-align: center;
-    padding: 3% 15%;    
+    padding: 7% 15%;    
     margin: 6rem 0;
 }
 
@@ -81,4 +83,80 @@
 
 #ft-img:hover{
     color: #ff4c68;
+}
+
+/* Testimonials */
+
+#testimonials{
+
+    text-align: center; 
+    background-color: #ef8172;
+    color: white;
+}
+
+#test-desc{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.75;
+    font-weight: 800;
+}
+
+.test-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 1.5rem;
+}
+.carousel-item{
+    padding: 7% 15%;   
+}
+
+/* Press  */
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 1.5rem 1.5rem 3rem ;
+}
+ /* Pricins */
+
+#pricing{
+    padding: 6rem;
+}
+
+#pricing-col{
+    padding: 3% 2%;
+}
+
+#prc-h{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.75rem;
+    font-weight: 800;
+    margin-top: 1rem;
+}
+
+#prc-desc{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color: gray;
+}
+
+#card-header>h3{
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-top: 1rem;
+}
+
+#card-body>h2{
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+#card-body>button{
+    width: 90%;
 }
