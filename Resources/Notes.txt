@@ -79,5 +79,6 @@
     - Bootstrap Challenge completed
 
 - Chapter 7: Intermediate Bootstrap  completed.
-
+    - Carousel
+    - Cards
 
