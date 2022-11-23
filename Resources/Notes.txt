@@ -78,7 +78,13 @@
 - Chapter 6: Introduction to Bootstrap completed.
     - Bootstrap Challenge completed
 
-- Chapter 7: Intermediate Bootstrap  completed.
+- Chapter 7: Intermediate Bootstrap %20 completed.
     - Carousel
     - Cards
 
+
+* Day 14
+- Chapter 6: Introduction to Bootstrap completed.
+    - Bootstrap Challenge completed
+
+- Chapter 7: Intermediate Bootstrap  completed.
