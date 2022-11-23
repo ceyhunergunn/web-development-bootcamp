@@ -58,11 +58,11 @@
     - Grid Layout System
 
 * Day 10
-- Started Yukatech Challenge
+- Challenge Started 
     - To-Do page designed
 
 * Day 11
-- Yukatech Challenge
+- Challenge Completed
     - To-Do Page designed
     - Login Page designed
     - All functions added

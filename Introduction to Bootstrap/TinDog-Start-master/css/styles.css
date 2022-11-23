@@ -14,7 +14,8 @@
 }
 
 .container{
-    padding: 3% 15%;    
+    padding: 3% 15% 10%;    
+
 }
 
 /* Navigation Bar */
@@ -47,8 +48,10 @@
 /* Title Image */
 
 .title-image{
-    width: 60%;
+    width: 25%;
     transform: rotate(25deg);
+    position: absolute;
+    right: 20%;
 }
 
 /* Features */
@@ -56,7 +59,8 @@
 #features{
     text-align: center;
     padding: 7% 15%;    
-    margin: 6rem 0;
+    background-color: white;
+    position: relative;
 }
 
 #ft-div{
@@ -67,6 +71,10 @@
     color: #ef8172;
     font-size: 5rem;
     margin-bottom: 1rem;
+}
+
+#ft-img:hover{
+    color: #ff4c68;
 }
 
 #ft-div > h3{
@@ -81,10 +89,6 @@
     font-weight: 400;
 }
 
-#ft-img:hover{
-    color: #ff4c68;
-}
-
 /* Testimonials */
 
 #testimonials{
@@ -92,6 +96,9 @@
     text-align: center; 
     background-color: #ef8172;
     color: white;
+}
+.carousel-item{
+    padding: 7% 15%;   
 }
 
 #test-desc{
@@ -106,9 +113,6 @@
     border-radius: 100%;
     margin: 1.5rem;
 }
-.carousel-item{
-    padding: 7% 15%;   
-}
 
 /* Press  */
 
@@ -122,7 +126,7 @@
     width: 15%;
     margin: 1.5rem 1.5rem 3rem ;
 }
- /* Pricins */
+ /* Pricing */
 
 #pricing{
     padding: 6rem;
@@ -159,4 +163,49 @@
 
 #card-body>button{
     width: 90%;
+}
+
+@media (max-width:991px) {
+
+    #title{
+        text-align: center;
+    }
+    .title-image{
+        position: static;
+        width: 60%;
+        transform: rotate(0);
+    }
+}
+
+/* Call to Action Section */
+
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 7% 15%;   
+
+}
+#cta > h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.25rem;
+    line-height: 1.75;
+    font-weight: 800;
+    color: white;
+}
+
+/* Footer */
+
+#footer{
+    text-align: center;
+    background-color: white;
+    padding: 7% 15%;   
+
+}
+
+#footer > i{
+    margin: 10px;
+}
+
+#footer > p{
+    color: gray;
 }

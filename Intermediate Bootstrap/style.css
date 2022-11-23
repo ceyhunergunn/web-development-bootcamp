@@ -6,3 +6,29 @@ img{
     text-align: center;
     margin: auto;
 }
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    position: absolute;
+}
+
+.red{
+    background-color: red;
+    z-index: 1;
+}
+
+.yellow{
+    background-color: yellow;
+    left: 20px;
+    top: 20px;
+    z-index: 2;
+}
+
+.blue{
+    background-color: blue;
+    left: 40px;
+    top: 40px;
+    z-index: 1;
+}
