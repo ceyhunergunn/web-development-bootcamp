@@ -202,10 +202,12 @@
 
 }
 
-#footer > i{
+#footer > a{
     margin: 10px;
+    color: black;
 }
 
 #footer > p{
+    margin-top: 30px;
     color: gray;
 }

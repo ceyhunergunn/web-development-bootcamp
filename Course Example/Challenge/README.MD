@@ -1,2 +1,2 @@
-E-Mail : yuka@yuka.com
-Password : yuka123
+E-Mail : ceyhun@ceyhun.com
+Password : ceyhun123
