@@ -90,3 +90,10 @@
     - How to Become a Better Programmer
     - Combining Selectors
     - Selector Priority 
+
+* Day 15
+- Chapter 8: Web Design School - Create a Website That People Love 
+    - Color Theory
+    - Typology
+    - UI Design
+    - UX Design
