@@ -97,3 +97,6 @@
     - Typology
     - UI Design
     - UX Design
+
+* Day 16
+- Resume Website started.
