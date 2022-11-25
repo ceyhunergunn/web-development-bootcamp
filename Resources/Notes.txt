@@ -100,3 +100,5 @@
 
 * Day 16
 - Resume Website started.
+
+- Resume Website Version 1 completed.
