@@ -102,3 +102,12 @@
 - Resume Website started.
 
 - Resume Website Version 1 completed.
+
+* Day 17
+- Chapter 9: Introduction to Javascript ES6
+    - Alert
+    - Data Types
+    - Variables
+    - Naming
+    - Strings
+    - Numbers
