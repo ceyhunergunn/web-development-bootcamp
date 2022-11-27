@@ -4,11 +4,13 @@
     - How Do Websites Work?
     - Top Tips for the Course
 
+
 * Day 2
 - Chapter 2: Introduction to HTML completed.
     - What is HTML Tag?
     - Start Tag / End Tag / Self Cosing Tag / Content
     - Example Usage of HTML Elements
+
 
 * Day 3
 - Chapter 3: Intermediate HTML completed.
@@ -16,11 +18,13 @@
     - Personal Site is completed
     - How To Publish Our Website?
 
+
 * Day 4
 - Chapter 4: Introduction to CSS %40 completed.
     - Inline CSS
     - Internal CSS
     - External CSS
+
 
 * Day 5
 - Chapter 4: Introduction to CSS completed.
@@ -30,6 +34,7 @@
     - ID Selector
     - Pseudo
 
+
 * Day 6
 - Chapter 5: Intermediate CSS %30 completed.
     - Favicon
@@ -38,16 +43,19 @@
     - CSS Display Property
     - CSS Positioning
 
+
 * Day 7
 - Chapter 5: Intermediate CSS %75 completed.
     - Centering Elements
     - Font Styling
     - Adding Content
     - Sizing
-    
+
+
 * Day 8
 - Chapter 5: Intermediate CSS completed.
     - Float and Clear
+
 
 * Day 9
 - Started Resume Website
@@ -57,9 +65,11 @@
     - Navigation Bar
     - Grid Layout System
 
+
 * Day 10
 - Challenge Started 
     - To-Do page designed
+
 
 * Day 11
 - Challenge Completed
@@ -74,10 +84,10 @@
     - Buttons
     - Font Awesome
 
+
 * Day 13
 - Chapter 6: Introduction to Bootstrap completed.
     - Bootstrap Challenge completed
-
 - Chapter 7: Intermediate Bootstrap %20 completed.
     - Carousel
     - Cards
@@ -91,20 +101,22 @@
     - Combining Selectors
     - Selector Priority 
 
+
 * Day 15
-- Chapter 8: Web Design School - Create a Website That People Love 
+- Chapter 8: Web Design School - Create a Website That People Love completed.
     - Color Theory
     - Typology
     - UI Design
     - UX Design
 
+
 * Day 16
 - Resume Website started.
-
 - Resume Website Version 1 completed.
 
+
 * Day 17
-- Chapter 9: Introduction to Javascript ES6
+- Chapter 9: Introduction to Javascript ES6 %50 completed
     - Alert
     - Data Types
     - Variables
