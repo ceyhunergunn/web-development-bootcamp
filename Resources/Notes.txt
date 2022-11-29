@@ -129,7 +129,7 @@
     - Functions
 
 * Day 19
-- Chapter 10: Intermediate Javascript 
+- Chapter 10: Intermediate Javascript completed.
     - Random Number Generator
     - If - Else / While / For
     - Comparators and Equality
