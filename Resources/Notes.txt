@@ -135,4 +135,12 @@
     - Comparators and Equality
     - Arrays
 
+- Chapter 11: The Document Object Model (DOM) completed.
+    - Get / Set Property
+    - Call Method
+    - Selecting HTML Elements
+    - Manuplating and Changing Styles
+    - Seperation of Concerns
+    - Text Manuplation
+    - Manuplating Attributes
 
