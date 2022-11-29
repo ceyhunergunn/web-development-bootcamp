@@ -116,10 +116,14 @@
 
 
 * Day 17
-- Chapter 9: Introduction to Javascript ES6 %50 completed
+- Chapter 9: Introduction to Javascript ES6 %50 completed.
     - Alert
     - Data Types
     - Variables
     - Naming
     - Strings
     - Numbers
+
+* Day 18
+- Chapter 9: Introduction to Javascript ES6 completed.
+    - Functions
