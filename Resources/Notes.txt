@@ -131,8 +131,8 @@
 * Day 19
 - Chapter 10: Intermediate Javascript 
     - Random Number Generator
-    - Control Statements
+    - If - Else / While / For
     - Comparators and Equality
-    - Array
+    - Arrays
 
 
