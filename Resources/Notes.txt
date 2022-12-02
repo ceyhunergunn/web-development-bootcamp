@@ -149,3 +149,10 @@
 * Day 20 
 - Chapter 12: The Dice Game completed.
 
+- Chapter 13: Advanced JS and DOM Manuplating %70 completed.
+    - Adding Event Listener
+    - Play Sounds
+    - Objects
+    - Switch Statements
+    - Methods
+
