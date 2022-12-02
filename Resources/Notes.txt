@@ -147,5 +147,5 @@
     - Manuplating Attributes
 
 * Day 20 
-- Chapter 12: The Dicee Game completed.
+- Chapter 12: The Dice Game completed.
 
