@@ -160,3 +160,11 @@
 - Chapter 13: Advanced JS and DOM Manuplating completed.
     - Adding Animations
 
+- Chapter 14: jQuery completed.
+    - Selecting Elements
+    - Manuplating Styles
+    - Manuplating Text
+    - Manuplating Attributes
+    - Adding Event Listener
+    - Adding and Removing Elements
+    - Website Animations
