@@ -156,3 +156,7 @@
     - Switch Statements
     - Methods
 
+* Day 21 
+- Chapter 13: Advanced JS and DOM Manuplating completed.
+    - Adding Animations
+
