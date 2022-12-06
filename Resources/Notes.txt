@@ -174,7 +174,6 @@
 
 * Day 22
 - Chapter 15: The Simon Game Completed.
-
 - Chapter 16: The Unix Command Line completed.
 
 - Chapter 17: Backend Web Development completed.
