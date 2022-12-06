@@ -146,6 +146,7 @@
     - Text Manuplation
     - Manuplating Attributes
 
+
 * Day 20 
 - Chapter 12: The Dice Game completed.
 
@@ -155,6 +156,7 @@
     - Objects
     - Switch Statements
     - Methods
+
 
 * Day 21 
 - Chapter 13: Advanced JS and DOM Manuplating completed.
@@ -168,3 +170,7 @@
     - Adding Event Listener
     - Adding and Removing Elements
     - Website Animations
+
+
+* Day 22
+- Chapter 15Ç The Simon Game Completed.
