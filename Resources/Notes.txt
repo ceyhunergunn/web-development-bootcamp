@@ -173,4 +173,4 @@
 
 
 * Day 22
-- Chapter 15Ç The Simon Game Completed.
+- Chapter 15: The Simon Game Completed.
