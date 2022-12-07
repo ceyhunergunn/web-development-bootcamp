@@ -180,6 +180,7 @@
 
 * Day 23
 - Chapter 18: Node.js Completed.
+    - The Node REPL (Read Evalution Print Loops)
     - How to Use Native Node Modules
     - NPM Package Manager
     - Installing Modules
