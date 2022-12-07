@@ -176,3 +176,10 @@
 - Chapter 15: The Simon Game Completed.
 - Chapter 16: The Unix Command Line completed.
 - Chapter 17: Backend Web Development completed.
+
+
+* Day 23
+- Chapter 18: Node.js Completed.
+    - How to Use Native Node Modules
+    - NPM Package Manager
+    - Installing Modules
