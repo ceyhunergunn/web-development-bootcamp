@@ -184,3 +184,11 @@
     - How to Use Native Node Modules?
     - NPM Package Manager
     - Installing Modules
+
+* Day 24
+- Chapter 19: Express.js With Node.js Completed.
+    - Creating Server With Express.js
+    - Get Request
+    - Working With Routes
+    - Request With HTML Files
+    - Body Parser
