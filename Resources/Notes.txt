@@ -192,3 +192,11 @@
     - Working With Routes
     - Request With HTML Files
     - Body Parser
+
+* Day 25
+- Chapter 20: APIs %50 completed.
+    - Authentication and Postman
+    - JSON (JS Object Notation)
+    - Get Request
+    - Parse JSON
+    - Render a Website with Live API Data
