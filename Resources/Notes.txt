@@ -200,3 +200,8 @@
     - Get Request
     - Parse JSON
     - Render a Website with Live API Data
+
+* Day 26 
+- Chapter 20: APIs completed.
+    - Post Request With Body Parser
+    - The Mailchimp API
