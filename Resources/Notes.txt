@@ -185,6 +185,7 @@
     - NPM Package Manager
     - Installing Modules
 
+
 * Day 24
 - Chapter 19: Express.js With Node.js Completed.
     - Creating Server With Express.js
@@ -192,6 +193,7 @@
     - Working With Routes
     - Request With HTML Files
     - Body Parser
+
 
 * Day 25
 - Chapter 20: APIs %50 completed.
@@ -201,7 +203,16 @@
     - Parse JSON
     - Render a Website with Live API Data
 
+
 * Day 26 
 - Chapter 20: APIs completed.
     - Post Request With Body Parser
     - The Mailchimp API
+
+
+* Day 27
+- Chapter 21: Git, Github and Version Control completed.
+    - Git commits
+    - Cloning
+    - Branching and Merging
+    - Forking and Pull Request
