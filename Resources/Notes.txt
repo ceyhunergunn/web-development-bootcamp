@@ -216,3 +216,10 @@
     - Cloning
     - Branching and Merging
     - Forking and Pull Request
+
+
+* Day 28
+- Chapter 22: EJS completed.
+    - Scope
+    - Templating
+    - Layout
