@@ -223,3 +223,7 @@
     - Scope
     - Templating
     - Layout
+
+* Day 29   
+- Chapter 23: Boss Level Challenge 3 - Blog Website completed.
+    -lodash
