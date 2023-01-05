@@ -227,3 +227,8 @@
 * Day 29   
 - Chapter 23: Boss Level Challenge 3 - Blog Website completed.
     -lodash
+
+" Day 30
+- Cahpter 24: Databases completed.
+    - SQL 
+    - NoSQL
