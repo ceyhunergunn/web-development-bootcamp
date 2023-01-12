@@ -245,3 +245,13 @@
     - ALTER TABLE
     - DELETE
     - JOIN
+
+
+* Day 32 
+-Chapter 26: MongoDB completed.
+    - Insert
+    - Read 
+    - Update
+    - Delete 
+    - Relationships in MongoDB
+    - MongoDB with NodeJS
