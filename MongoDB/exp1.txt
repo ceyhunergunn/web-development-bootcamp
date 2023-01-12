@@ -1,0 +1,1 @@
+db.products.insert({_id: 3, name: "Rubber", price: 1.30, stock: 43, reviews: [{ authurName: "Ceyhun", rating: 5 },{authurName: "Emre", rating:4}]})
