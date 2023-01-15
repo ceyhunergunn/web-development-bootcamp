@@ -255,3 +255,13 @@
     - Delete 
     - Relationships in MongoDB
     - MongoDB with NodeJS
+
+
+* Day 33
+-Chapter 27: Mongoose completed.
+    - Adding
+    - Reading
+    - Updating
+    - Deleting
+    - Data Validation
+    - Relationships
