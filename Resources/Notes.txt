@@ -268,3 +268,5 @@
 
 * Day 34
 -Chapter 28: Putting Everything completed.
+-Chapter 29: Deploying Your Web App completed.
+
