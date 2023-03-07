@@ -265,3 +265,6 @@
     - Deleting
     - Data Validation
     - Relationships
+
+* Day 34
+-Chapter 28: Putting Everything completed.
