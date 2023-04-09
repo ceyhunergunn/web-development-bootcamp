@@ -272,5 +272,12 @@
 
 * Day 35
 -Chapter 30: Boss Level Challenge 4 - Blog Website Upgrade completed.
--
+-Chapter 31: RESTful API %10 completed.
+
+* Day 36
+-Chapter 31: RESTful API completed.
+    - Get, Post, Delete, Put, Patch
+    - Chained Route Handlers
+    - Specific Get, Post, Delete, Put, Patch
+    
 
