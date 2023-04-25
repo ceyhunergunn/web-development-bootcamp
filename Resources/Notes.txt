@@ -280,4 +280,17 @@
     - Chained Route Handlers
     - Specific Get, Post, Delete, Put, Patch
     
+* Day 37
+-Chapter 32: Authentication & Security %60 completed.
+    - .env , .gitignore
+    - hashing, salting & hashing
+    - cookies & sessions
+    - google oauth 2.0
 
+* Day 38
+-Chapter 33: ReactJS %20 completed.
+    -JSX
+    -Babel
+    -JSX Attributes & Styling
+    -Inline Styling
+    -React Components
