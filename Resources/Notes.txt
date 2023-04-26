@@ -294,3 +294,11 @@
     -JSX Attributes & Styling
     -Inline Styling
     -React Components
+
+* Day 39
+-Chapter 33: ReactJS %33 completed.
+    -Export
+    -Import
+    -Modules
+    -Inline Styling
+    -React Components
