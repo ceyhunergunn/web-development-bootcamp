@@ -302,3 +302,8 @@
     -Modules
     -Inline Styling
     -React Components
+
+* Day 40
+-Chapter 33: ReactJS %40 completed.
+    -React Props
+    -React Devtools
