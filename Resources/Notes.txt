@@ -266,13 +266,16 @@
     - Data Validation
     - Relationships
 
+
 * Day 34
 -Chapter 28: Putting Everything completed.
 -Chapter 29: Deploying Your Web App completed.
 
+
 * Day 35
 -Chapter 30: Boss Level Challenge 4 - Blog Website Upgrade completed.
 -Chapter 31: RESTful API %10 completed.
+
 
 * Day 36
 -Chapter 31: RESTful API completed.
@@ -280,12 +283,14 @@
     - Chained Route Handlers
     - Specific Get, Post, Delete, Put, Patch
     
+
 * Day 37
 -Chapter 32: Authentication & Security %100 completed.
     - .env , .gitignore
     - hashing, salting & hashing
     - cookies & sessions
     - google oauth 2.0
+
 
 * Day 38
 -Chapter 33: ReactJS %20 completed.
@@ -295,6 +300,7 @@
     -Inline Styling
     -React Components
 
+
 * Day 39
 -Chapter 33: ReactJS %33 completed.
     -Export
@@ -303,13 +309,22 @@
     -Inline Styling
     -React Components
 
+
 * Day 40
 -Chapter 33: ReactJS %40 completed.
     -React Props
     -React Devtools
+
 
 * Day 40
 -Chapter 33: ReactJS %55 completed.
     -Mapping Data
     -Map, Filter, Reduce, Find, FindIndex
     -Arrow Functions 
+
+
+* Day 41
+-Chapter 33: ReactJS %75 completed.
+    -Ternary Operator & AND Operator
+    -React Hooks - useState
+    -Array Destructing
