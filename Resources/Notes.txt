@@ -328,3 +328,10 @@
     -Ternary Operator & AND Operator
     -React Hooks - useState
     -Array Destructing
+
+* Day 41
+-Chapter 33: ReactJS %90 completed.
+    -Event Handling
+    -Forms
+    -Class and Functional Components
+    -Spread Operator
