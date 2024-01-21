@@ -1,0 +1,83 @@
+// // VARIABLES
+// @primary-color: green;
+// @p-margin: 10px;
+
+// header {
+//   color: @primary-color;
+// }
+// footer {
+//   color: @primary-color;
+// }
+// button {
+//   background-color: @primary-color;
+// }
+// .fancy-border(@size:2px,@color:green) {
+//   border: @size dashed @color;
+// }
+
+// // MIXINS
+// .fancy-border {
+//   .fancy-border;
+// }
+// .fancier-border {
+//   .fancy-border(10px,blue);
+//   background-color: yellow;
+//   border-radius: 5px;
+// }
+
+// //CONDITIONS
+// .p-style(@size) when (@size<=20
+// ) {
+//   color: red;
+//   font-size: @size;
+// }
+// .p-style(@size) when (@size>20
+// ) {
+//   color: blue;
+//   font-size: @size;
+// }
+
+// p {
+//   margin: @p-margin;
+//   .p-style(10px);
+// }
+
+// NESTING & SCOPE
+// main {
+//   background-color: yellow;
+//   p {
+//     color: red;
+//   }
+//   article {
+//     background-color: blue;
+//     p {
+//       color: white;
+//     }
+//   }
+// }
+
+//OPERATORS
+// @base-size: 20px;
+// @base-color: red;
+
+// p {
+//   font-size: @base-size;
+//   color: @base-color;
+// }
+
+// button {
+//   font-size: @base-size * 2;
+//   background-color: @base-color + 200;
+// }
+
+//FUNCTIONS
+// button {
+//   background: desaturate(red, 50%);
+// }
+
+//IMPORTS
+@import "button";
+
+p {
+  color: blue;
+}
